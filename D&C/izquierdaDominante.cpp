@@ -39,9 +39,7 @@ int main()
     vector<int> arr(length);
 
     for (int i = 0; i < length; i++)
-    {
         cin >> arr[i];
-    }
 
     if (length == 1)
     {
